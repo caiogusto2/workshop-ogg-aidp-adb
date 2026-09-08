@@ -1,0 +1,26 @@
+{
+  "workshoptitle": "Workshop plataforma de dados OCI (OGG + AIDP + Autonomous Database)",
+  "help": " ",
+	"tutorials": [
+    {
+      "title": "Solicitação de Ambiente",
+      "filename": "0-pt-config-lab/0-pt-config-lab.md"
+    },
+    {
+      "title": "Laboratório 1 - Setup Infraestrutura",
+      "filename": "infra/infra.md"
+    },
+    {
+      "title": "Laboratório 2 - OCI GoldenGate",
+      "filename": "ogg/ogg.md"
+    },
+    {
+      "title": "Laboratório 3 - OCI AI Data Platform",
+      "filename": "aidataplatform/aidataplatform.md"
+    },
+    {
+      "title": "Laboratório 4 - Oracle Autonomous Database",
+      "filename": "autonomousdb/autonomousdb.md"
+    }
+  ]
+}
