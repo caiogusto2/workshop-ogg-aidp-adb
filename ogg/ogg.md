@@ -41,7 +41,7 @@ Agora **repita o processo de criação de deployment e crie** o ferramental que 
 
 ![deploy05](images/deploy05.png)
 
-Note que nessa parte você tem que escolher **big data como tecnologia**
+Note que nessa parte você tem que escolher **big data como tecnologia. Escolha também a versão oggbigdata:23.26.2.0.0_260618.0017_1554**
 
 ![deploy06](images/deploy06.png)
 
